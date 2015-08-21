@@ -1,9 +1,5 @@
 # Welcome to VLT wiki!
 
-Read it [here](https://github.com/vltlabs/wiki/wiki)
-
-# Welcome to VLT wiki!
-
 Here you will find best practices, tips and tricks for your work.
 
 ## Programming
