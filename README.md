@@ -6,7 +6,7 @@ Here you will find best practices, tips and tricks for your work.
 
 ####&nbsp;&nbsp;&nbsp;&nbsp; [General Workflow](https://github.com/vltlabs/wiki/wiki/Android)
 
-####&nbsp;&nbsp;&nbsp;&nbsp; [Coding Conventions](https://github.com/vltlabs/wiki/wiki/Android)
+####&nbsp;&nbsp;&nbsp;&nbsp; [Coding Conventions](https://github.com/vltlabs/wiki/wiki/Coding-conventions)
 
 ####&nbsp;&nbsp;&nbsp;&nbsp; [Android](https://github.com/vltlabs/wiki/wiki/Android)
 #####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [General guide](https://github.com/vltlabs/wiki/wiki/Android1-General-Guide)
