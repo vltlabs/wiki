@@ -21,8 +21,15 @@ Here you will find best practices, tips and tricks for your work.
 #####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Engineering process](https://github.com/vltlabs/wiki/wiki/Rails2-Engineering-Process)
 #####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gemset whitelist](https://github.com/vltlabs/wiki/wiki/Rails3-Gemset-Whitelist)
 
-####&nbsp;&nbsp;&nbsp;&nbsp; [Nodejs](https://github.com/vltlabs/wiki/wiki/Rails) [WIP]
-#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [General guide](https://github.com/vltlabs/wiki/wiki/Rails1-General-Guide)
-#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Engineering process](https://github.com/vltlabs/wiki/wiki/Rails2-Engineering-Process)
-#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Package whitelist](https://github.com/vltlabs/wiki/wiki/Rails3-Gemset-Whitelist)
+####&nbsp;&nbsp;&nbsp;&nbsp; [Python](#) [WIP]
+#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [General guide](#)
+#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Engineering process](#)
+#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Package whitelist](#)
+
+
+
+####&nbsp;&nbsp;&nbsp;&nbsp; [Nodejs](#) [WIP]
+#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [General guide](#)
+#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Engineering process](#)
+#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Package whitelist](#)
 
