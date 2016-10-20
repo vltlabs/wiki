@@ -33,3 +33,5 @@ Here you will find best practices, tips and tricks for your work.
 #####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Engineering process](#)
 #####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Package whitelist](#)
 
+
+####&nbsp;&nbsp;&nbsp;&nbsp; [Front-end](https://github.com/vltlabs/wiki/wiki/Front-end)
